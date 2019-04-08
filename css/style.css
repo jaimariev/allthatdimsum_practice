@@ -54,6 +54,7 @@ p {
 
 .mainContainer {
   height: 590px;
+  background-image: url("css/taco.jpg");
 }
 
 .words {
