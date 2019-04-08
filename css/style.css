@@ -1,0 +1,83 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Great Vibes', cursive;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit; 
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  height: 140px;
+  background: #060606; 
+}
+
+footer {
+  text-align: center;
+  color: #fffaf7;
+  background: #060606;
+  margin: 0;
+  height: 65px;
+  line-height: 20px;
+}
+
+p {
+  margin: 0;
+  position: relative;
+  top: 10px;
+}
+
+.teamName {
+  margin: 0;
+  position: relative;
+  top: 30px;
+  font-size: 75px;
+  color: #FFFAF7;
+}
+
+.dimSum {
+  height: 120px;
+  widows: 125px;
+  margin: 0;
+  position: relative;
+  top: 10px;
+  left: 20px;
+  border-radius: 65px;
+}
+
+.mainContainer {
+  height: 590px;
+}
+
+.words {
+  font-family: sans-serif;
+  font-size: 25px;
+  margin: 10px;
+}
+
+
+/*profile css*/
+
+.name {
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+  font-size: 60px;
+}
+
+.img1 {
+
+  border-radius: 25px;
+  border: 10px solid #000000;
+  padding: 10px; 
+  width: 300px;
+  height: 400px;
+  position: relative;
+  margin-left: 20px;
+}
