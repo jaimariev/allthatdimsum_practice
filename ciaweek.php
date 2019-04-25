@@ -20,9 +20,9 @@
   <div class="navContainer">
     <nav>
       <ul class="navInfo">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="profiles.html">Meet the Team</a></li>
-        <li><a href="zuddle.html">Zuddle Topics</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="profiles.php">Meet the Team</a></li>
+        <li><a href="zuddle.php">Zuddle Topics</a></li>
       </ul>
     </nav>
 

@@ -26,9 +26,9 @@
 
     <div class="menuTopics">
       <ul>
-        <li><a href="profiles.html">Meet the Team</a></li>
-        <li><a href="zuddle.html">Zuddle Topics</a></li>
-        <li><a href="ciaweekly">CIA Weekly</a></li>
+        <li><a href="profiles.php">Meet the Team</a></li>
+        <li><a href="zuddle.php">Zuddle Topics</a></li>
+        <li><a href="ciaweekly.php">CIA Weekly</a></li>
       </ul>
     </div>
 

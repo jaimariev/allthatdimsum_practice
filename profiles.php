@@ -20,9 +20,9 @@
   <div class="navContainer">
     <nav>
       <ul class="navInfo">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="zuddle.html">Zuddle Topics</a></li>
-        <li><a href="ciaweek.html">CIA Weekly</a></li>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="zuddle.php">Zuddle Topics</a></li>
+        <li><a href="ciaweek.php">CIA Weekly</a></li>
       </ul>
     </nav>
   </div>
