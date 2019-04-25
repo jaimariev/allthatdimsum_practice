@@ -136,6 +136,10 @@ footer {
   justify-content: space-around;
 }
 
+.navContainer {
+  height: 50px;
+}
+
 .profileContainer {
   display: flex;
   justify-content: space-evenly;
@@ -173,11 +177,17 @@ footer {
 
 .topicContainer {
   width: 700px;
-  margin: 20px;
+  text-align: center;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 30px;
+  border: 2px solid #FEDB10;
+  background: white;
 }
 
 .zudTopDate {
-  
+  margin: 0;
 }
 
 .topReview {
