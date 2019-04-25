@@ -138,10 +138,8 @@ footer {
 
 .profileContainer {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   flex-wrap: wrap;
-  margin: 20px;
-  width: auto;
 }
 
 .name {
@@ -155,15 +153,42 @@ footer {
   border-radius: 25px;
   border: 8px solid #FEDB10;
   padding: 5px; 
-  width: 210px;
-  height: 240px;
+  width: 230px;
+  height: 300px;
   display: flex;
   justify-content: flex-start;
 }
 
 .infoContainer {
   width: 400px;
+  height: auto;
   position: relative;
   top: 60px;
-  right: 20px;
+  right: 10px;
+  color: black;
+  font-size: 20px;
 }
+
+/*zuddle css*/
+
+.topicContainer {
+  width: 700px;
+  margin: 20px;
+}
+
+.zudTopDate {
+  
+}
+
+.topReview {
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+
+.topicStuff {
+
+}
+
+
+
