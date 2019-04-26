@@ -32,6 +32,14 @@
       </ul>
     </div>
 
+    <div>
+      <img src="img/sammy.JPG" class="taco">
+      <p class="word"><strong>SAMMY</strong>
+      </p>
+      <p class="words"><strong>OUR NEWLY ADDED MASCOT</strong>
+      </p>
+    </div>
+
   </div>
 
   <footer>

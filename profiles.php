@@ -30,11 +30,11 @@
     <div class="profileContainer">
       <div class="profileImg">
         <p class="name">Coach Sasha Ilic</p>
-        <img class="img1" src="img/user.png"/>
+        <img class="img1" src="img/sasha.jpg"/>
       </div>
       <div class="infoContainer">
         <p>About Me:</p>
-        <span></span>
+        <span>Hi! I’m Sasha and I’m the coach to all these wonderful ladies…..plus Eric! I like videogames, documentaries, watching TV, doing yoga, writing and collecting crystals. I’m into anything odd, spooky or just plain weird. I’m also obsessed with my cat Ollie-Socks and love Halloween more than pretty much anything. I’m also going back to school to finish my degree and plan to become an elementary school teacher someday</span>
       </div>
 
       <div class="profileImg">
