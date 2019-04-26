@@ -74,7 +74,6 @@ a:hover {
   border-color: #FEDB10;
   border-width: 10px;
   position: relative;
-  left: 100px;
   top: 30px;
 }
 
@@ -84,7 +83,7 @@ a:hover {
   margin: 0;
   position: relative;
   bottom: 90px;
-  left: 220px;
+  left: 120px;
   color: #FFF;
 }
 
