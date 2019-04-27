@@ -82,7 +82,8 @@ a:hover {
   height: auto;
   margin: 0;
   position: relative;
-  bottom: 90px;
+  bottom: 40px;
+  left: 110px;
   color: #FFF;
 }
 
@@ -91,7 +92,7 @@ a:hover {
   height: 285px;
   position: relative;
   top: 120px;
-  right: 70px;
+
 /*  border-radius: 20px;
   border-style: outset;
   border-color: #FEDB10;

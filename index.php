@@ -20,8 +20,6 @@
       <img src="img/taco.jpg" class="taco">
       <p class="word"><strong>TACO</strong>
       </p>
-      <p class="words"><strong>OUR MASCOT</strong>
-      </p>
     </div>
 
     <div class="menuTopics">
@@ -35,8 +33,6 @@
     <div>
       <img src="img/sammy.JPG" class="taco">
       <p class="word"><strong>SAMMY</strong>
-      </p>
-      <p class="words"><strong>OUR NEWLY ADDED MASCOT</strong>
       </p>
     </div>
 
