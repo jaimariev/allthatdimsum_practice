@@ -42,5 +42,10 @@
     <p class="topReview">TEAM WEBSITE</p>
     <span class="topicStuff">Please email/slack Jai a photo of yourself as well as a short bio for our team website!</span>
   </div>
+
+  <footer>
+    <p class="foot">&copy; All That & Dim Sum</p>
+    <p class="foot">Powered by Zapponians</p>
+  </footer>
 </body>
 </html>

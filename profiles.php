@@ -83,7 +83,7 @@
       </div>
 
       <div class="profileImg">
-        <p class="name">Nisa Anna</p>
+        <p class="name">Nisa Anna Naputi</p>
         <img class="img1" src="img/nisa.jpeg"/>
       </div>
       <div class="infoContainer">
@@ -92,7 +92,7 @@
       </div>
 
       <div class="profileImg">
-        <p class="name">Noelle</p>
+        <p class="name">Noelle Stolarski</p>
         <img class="img1" src="img/noelle.jpg"/>
       </div>
       <div class="infoContainer">
@@ -101,7 +101,7 @@
       </div>
 
       <div class="profileImg">
-        <p class="name">Pertella</p>
+        <p class="name">Pertella McDonald</p>
         <img class="img1" src="img/pertella.jpg"/>
       </div>
       <div class="infoContainer">
@@ -110,7 +110,7 @@
       </div>
 
       <div class="profileImg">
-        <p class="name">Davia</p>
+        <p class="name">Davia Charles</p>
         <img class="img1" src="img/user.png"/>
       </div>
       <div class="infoContainer">
@@ -154,8 +154,16 @@
         <p>About Me:</p>
         <span></span>
       </div>
-    </div>
 
+      <div class="profileImg">
+        <p class="name">Angel Thomas</p>
+        <img class="img1" src="img/user.png"/>
+      </div>
+      <div class="infoContainer">
+        <p>About Me:</p>
+        <span></span>
+      </div>
+    </div>
 
   <br>
   <footer>

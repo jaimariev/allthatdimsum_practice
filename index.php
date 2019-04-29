@@ -26,7 +26,7 @@
       <ul>
         <li><a href="profiles.php">Meet the Team</a></li>
         <li><a href="zuddle.php">Zuddle Topics</a></li>
-        <li><a href="ciaweekly.php">CIA Weekly</a></li>
+        <li><a href="ciaweek.php">CIA Weekly</a></li>
       </ul>
     </div>
 
