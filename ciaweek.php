@@ -25,7 +25,16 @@
         <li><a href="zuddle.php">Zuddle Topics</a></li>
       </ul>
     </nav>
-
   </div>
+
+  <div class="ciaContainer">
+    
+  </div>
+
+
+  <footer>
+    <p class="foot">&copy; All That & Dim Sum</p>
+    <p class="foot">Powered by Zapponians</p>
+  </footer>
 </body>
 </html>

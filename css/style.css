@@ -32,6 +32,10 @@ header {
   height: auto;
 }
 
+footer {
+  height: auto;
+}
+
 ul {
   margin: 0;
   padding: 0;
