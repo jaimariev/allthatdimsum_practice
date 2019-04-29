@@ -33,7 +33,9 @@ header {
 }
 
 footer {
-  height: auto;
+  height: 60px;
+  margin: 0;
+  padding: 10px;
 }
 
 ul {
